@@ -30,7 +30,7 @@ int choiceoflength(int n){
     cout<<"Enter the length of the one time password";
     cin>>n; //input
     return n;
-    //otpgenerator(n);
+   
 }
 int main(){
     int n;
